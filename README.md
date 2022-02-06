@@ -2,7 +2,7 @@
 <br />
 
 My name is Niklas.
-I'm a software engineer, who is passionate about programming, economics and data science.
+I'm a software engineer, who is passionate about programming, economics, data science and management.
 I'm studying information knowledge and management at Tampere University.
 
 ### &nbsp;Contact
