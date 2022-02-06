@@ -43,10 +43,9 @@ I'm studying information knowledge and management at Tampere University.
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 <br />
 
-## GitHub Stats
+### &nbsp;Used languages
+#### &nbsp;P.S. I use Github only for school and private projects
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilkkiz&show_icons=true&locale=en&layout=compact&theme=radical" alt="nilkkiz" /></p>
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilkkiz&theme=radical" alt="nilkkiz" /></p>
- 
  <br />
