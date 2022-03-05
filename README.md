@@ -46,6 +46,6 @@ I'm studying information knowledge and management at Tampere University.
 ### &nbsp;Used languages
 #### &nbsp;P.S. I use Github only for school and private projects
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilkkiz&show_icons=true&locale=en&layout=compact&theme=radical" alt="nilkkiz" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikkenu&show_icons=true&locale=en&layout=compact&theme=radical" alt="nikkenu" /></p>
 
  <br />
